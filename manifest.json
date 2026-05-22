@@ -1,5 +1,12 @@
 {
-    "version":  "1.0.1",
-    "packageUrl":  "https://github.com/LegacyRoleplay-cmd/Legacy-Mod/releases/download/v1.0.1/Legacy-1.0.1.zip",
-    "packageSha256":  "3c4239c32b277cd0e89c6ef054f962e7c537d35b29e47a09c984ec81275daacf"
+    "version":  "1.0.2",
+    "packageUrl":  "https://github.com/LegacyRoleplay-cmd/Legacy-Mod/releases/download/v1.0.2/Legacy-1.0.2.zip",
+    "packageSha256":  "93b5ec9a43bbc6c9341d96b1d55ec0924e0dcd8090b40fc5878af5a05c5b7514",
+    "files":  [
+                  {
+                      "path":  "LegacyLauncher.exe",
+                      "sha256":  "3039a30000b46e18106f45b1de3599deb250736c92530309403f1e6f33bb9263",
+                      "url":  "https://github.com/LegacyRoleplay-cmd/Legacy-Mod/releases/download/v1.0.2/LegacyLauncher.exe"
+                  }
+              ]
 }
